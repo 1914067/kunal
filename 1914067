@@ -1,8 +1,8 @@
 PROGRAMMING FOR PROBLEM SOLVING
-NAME - Bhupinder Partap
-ROLL NO - 1914027
+NAME - Kunal Tezaniya
+ROLL NO - 1914067
 BRANCH - CIVIL
-SECTION - CE (A2)
+SECTION - CE (B1)
 PROGRAM NO 1 : PROGRAM TO PRINT WELCOME MESSAGE
 
 #include <stdio.h>
@@ -51,7 +51,7 @@ Sum of two variables is : 30
 PROGRAM NO 4 : PROGRAM TO CONVERT TEMPERATURE FROM CELCIUS TO FAHRENHEIT
 
 #include <stdio.h>
-void main ()
+void main ()19140271914027
 {
 float num1,num2;
 printf ("\nEnter value in centigrade:\n");
